@@ -1,6 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": "GDP of the World in 2020",
+  "title": "GDP of the World in 2024",
   "width": 800,
   "height": 400,
   "projection": {"type": "equalEarth"},
@@ -88,4 +88,5 @@
       }
     }
   ]
+
 }
